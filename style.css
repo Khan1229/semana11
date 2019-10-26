@@ -18,7 +18,7 @@
 
 .panel{
     display: grid;
-    grid-template-columns: 20vw 60vw;
+    grid-template-columns: 25vw 55vw;
     grid-template-rows: 13vh 64vh 13vh;
     height: 90vh;
     width: 80vw;
