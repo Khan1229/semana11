@@ -20,7 +20,7 @@
 .panel{
     display: grid;
     grid-template-columns: 25vw 55vw;
-    grid-template-rows: 13vh 64vh 13vh;
+    grid-template-rows: 12vh 1fr 12vh;
     height: 90vh;
     width: 80vw;
     background-color: #dcf8c6;
